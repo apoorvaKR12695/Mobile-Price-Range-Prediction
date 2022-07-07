@@ -1,13 +1,13 @@
    
 </p>
-<h1 align="center"> Face Emotion Detection </h1>
+<h1 align="center"> Mobile Price Range Prediction </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 
 
 ![1_kNmSTa-xG_Ed_xmHPWAzeQ](https://user-images.githubusercontent.com/102009481/177730708-9d7f518e-0553-47b0-8d77-7d3be8159d56.png)
 
-<p>Built an  face emotion detection app that detects the sentiment of the online classroom using live video from the webcam and real-time aggregated feedback to the instructors about the class using CNN model and deployed on Heroku platform.</p>
+<p>Built a Multi-Class classification model to find the relation between features of a mobile phone(RAM, Internal Memory etc) and its selling price. Model will predict the price range indicating how high the price is.</p>
 
 <h2> :floppy_disk: Project Files Description</h2>
 
