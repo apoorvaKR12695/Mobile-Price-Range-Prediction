@@ -1,0 +1,26 @@
+"Classification report for Logistic Regression (Test set)= \n",
+            "              precision    recall  f1-score   support\n",
+            "\n",
+            "           0       0.97      0.95      0.96       107\n",
+            "           1       0.86      0.87      0.86        90\n",
+            "           2       0.82      0.82      0.82        92\n",
+            "           3       0.92      0.93      0.92       111\n",
+            "\n",
+            "    accuracy                           0.90       400\n",
+            "   macro avg       0.89      0.89      0.89       400\n",
+            "weighted avg       0.90      0.90      0.90       400\n",
+            "\n"
+
+
+"Classification Report for Decision Tree (Train set)= \n",
+            "              precision    recall  f1-score   support\n",
+            "\n",
+            "           0       0.98      0.91      0.94       395\n",
+            "           1       0.81      0.88      0.84       409\n",
+            "           2       0.77      0.84      0.80       408\n",
+            "           3       0.96      0.84      0.90       388\n",
+            "\n",
+            "    accuracy                           0.87      1600\n",
+            "   macro avg       0.88      0.87      0.87      1600\n",
+            "weighted avg       0.88      0.87      0.87      1600\n",
+            "\n"
