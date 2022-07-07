@@ -34,18 +34,25 @@
   
 </ul>
 
-tains all the neccesarry dependencies .</li>
+
   
 </ul>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> :book: CNN </h2>
+<h2> :book: Random Forest Classification </h2>
 
-<p> Convolutional Neural Networks (CNNs) are a type of Neural Network that has excelled in a number of contests involving Computer Vision and Image Processing.Designing the CNN model for, emotion detection .creating blocks using Conv2D layer,Batch-Normalization, Max-Pooling2D, Dropout, Flatten, and then stacking them together and at the end-use Dense Layer for output
+<p> Random forest classifier creates a set of decision trees from randomly selected subset of training set. It then aggregates the votes from different decision trees to decide the final class of the test object.Ensembled algorithms are those which combines more than one algorithms of same or different kind for classifying objects. For example, running prediction over Naive Bayes, SVM and Decision Tree and then taking vote for final consideration of class for test object.Basic parameters to Random Forest Classifier can be total number of trees to be generated and decision tree related parameters like minimum split, split criteria etc.
+   
+   ![Screenshot (26)](https://user-images.githubusercontent.com/102009481/177786192-c7ada90f-dec6-4231-a8a9-165239925432.png)
 
 
-![1_CnNorCR4Zdq7pVchdsRGyw](https://user-images.githubusercontent.com/102009481/177744968-d0bb6264-acd9-429e-bc7e-56cd3464574c.png)
+<h2> :book: XGboost </h2>
+
+<p> XGBoost stands for “Extreme Gradient Boosting”. XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements Machine Learning algorithms under the Gradient Boosting framework. It provides a parallel tree boosting to solve many data science problems in a fast and accurate way. 
+
+
+![Screenshot (27)](https://user-images.githubusercontent.com/102009481/177787039-573da579-37af-4456-957b-c72d75c120b1.png)
 
 
 
@@ -55,33 +62,15 @@ tains all the neccesarry dependencies .</li>
 <p>The order of execution of the program files is as follows:</p>
 
 
-<p><b>1) train.py</b></p>
-<p>Then, the train.py file must be executed, to define all the functions and variables required for classification operations which leads to the production of the model.h5 file. 
-
-<p><b>2) test.py</b></p>
-<p>Finally, the test.py file must be executed to evaluate the model performance on unseen data.
+<p><b>1) final_notebook_mobile_price_range_prediction_Apoorva_KR.ipynb</b></p>
+<p>Then, this file must be executed, to define all the functions and variables required for classification operations which leads to the production of the model.h5 file. and to evaluate the model performance on unseen data
 
 
 
 
-  Deployment Link for Heroku -Deployment Link for heroku :- https://face-recognit-apoorva.herokuapp.com/
 
-Deployment Link for Streamlit Share - https://share.streamlit.io/apoorvakr12695/face-emotion-recognition-/main/app.py
 
-# Run WebApp Locally
-
-Clone the project
-
-        git clone https://github.com/apoorvaKR12695/face-emotion-recognition-
-
-  
-Install dependencies
-
-          pip install -r requirement.txt
-  
-Start local webcam
-
-           streamlit run app.py
+ 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
