@@ -91,17 +91,18 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2> :books: References</h2>
 <ul>
-  <li><p>'Facial emotion recognition methods, datasets and technologies' . [Online].</p>
-      <p>Available: https://ieeexplore.ieee.org/document/9702451
+  <li><p>'Mobile Price Prediction Using Machine Learning Blog' . [Online].</p>
+      <p>Available: https://medium.com/@Nivitus./mobile-price-prediction-using-machine-learning-fa9cab6fb242
   </li>
-  <li><p>'Basic CNN Architecture: Explaining 5 Layers of Convolutional Neural Network.'. [Online].</p>
-      <p>Available: https://www.upgrad.com/blog/basic-cnn-architecture/</p>
+  
+  <li><p>'Mobile Price Prediction Through Four Classification Algorithms '. [Online].</p>
+      <p>Available: https://www.analyticsvidhya.com/blog/2022/02/learn-mobile-price-prediction-through-four-classification-algorithms/ /</p>
   </li>
-  <li><p>Youtube.com, Emotion Detection using Convolutional Neural Networks and OpenCV | Keras | Realtime. [Online].</p>
-      <p>Available: https://www.youtube.com/watch?v=Bb4Wvl57LIk</p>
+  <li><p>Youtube.com,'Mobile Price Classification and Prediction using 3 Machine Learning Algorithms'. [Online].</p>
+      <p>Available: https://www.youtube.com/watch?v=rROyz_hZjKQ</p>
   </li>
-  <li><p>Youtube.com, 'LEARN OPENCV | Computer Vision'. [Online].</p>
-      <p>Available: https://www.youtube.com/watch?v=WQeoO7MI0Bs</p>
+  <li><p>Youtube.com, 'Mobile Price Prediction Kaggle Dataset Analysis | Data Science | ML | Kaggle'. [Online].</p>
+      <p>Available: https://www.youtube.com/watch?v=880YXMnTeu4</p>
   </li>
   <li><p>Manisha-sirsat.blogspot.com, 'What is Confusion Matrix and Advanced Classification Metrics?'. [Online].</p>
       <p>Available: https://manisha-sirsat.blogspot.com/2019/04/confusion-matrix.html</p>
