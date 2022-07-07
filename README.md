@@ -4,8 +4,9 @@
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 
+![Screenshot (28)](https://user-images.githubusercontent.com/102009481/177788412-1f515f71-0654-4a26-9c05-f3598f4f034d.png)
 
-![Screenshot (24)](https://user-images.githubusercontent.com/102009481/177779863-376e126b-177c-4691-af6b-776c410b1f24.png)
+
 
 
 <p>Built a Multi-Class classification model to find the relation between features of a mobile phone(RAM, Internal Memory etc) and its selling price. Model will predict the price range indicating how high the price is.</p>
