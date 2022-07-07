@@ -5,7 +5,8 @@
 
 
 
-![1_kNmSTa-xG_Ed_xmHPWAzeQ](https://user-images.githubusercontent.com/102009481/177730708-9d7f518e-0553-47b0-8d77-7d3be8159d56.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/102009481/177779863-376e126b-177c-4691-af6b-776c410b1f24.png)
+
 
 <p>Built a Multi-Class classification model to find the relation between features of a mobile phone(RAM, Internal Memory etc) and its selling price. Model will predict the price range indicating how high the price is.</p>
 
