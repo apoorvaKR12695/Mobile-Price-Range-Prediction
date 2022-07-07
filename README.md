@@ -1,4 +1,10 @@
-# Mobile-Price-Range-Prediction
+     
+                            #Mobile-Price-Range-Prediction
+
+                                 AlmaBetter Verfied Project - AlmaBetter School
+
+      ![Screenshot (24)](https://user-images.githubusercontent.com/102009481/177723478-13b7578b-630c-4da0-af38-ecd0738addb5.png)
+
 problem statement
 In the competitive mobile phone market companies want to understand sales data of mobile phones and factors which drive the prices. The objective is to find out some relation between features of a mobile phone(eg:- RAM,Internal Memory, etc) and its selling price. In this problem, we do not have to predict the actual price but a price range indicating how high the price is.
 The data contains information regarding mobile phone features, specifications etc and their price range. The various features and information can be used to predict the price range of a mobile phone.Analysis of given data set in following ways.
