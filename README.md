@@ -18,29 +18,23 @@
 <ul>
   
   <li><b>mobile_price_range_prediction_Apoorva_KR.ipynb</b> - Includes all functions required for classification operations  and generates the model.h5 file after execution.</li>
-  <li><b>test.py</b> -  after execution, evaluation is done on the unseen data as in confusion_matrix.txt.</li>
+  <li><b>final_notebook_mobile_price_range_prediction_Apoorva_KR.ipynb</b> -  after execution, evaluation is done on the unseen data as in confusion_matrix.txt.</li>
 </ul>
 
 <h4>Output Files:</h4>
 <ul>
-  <li><b>model.h5</b> - Model contains information about the emotions of the train set, such as the Happy,Sad,Disgust,Calm and so on.</li>
+  <li><b>model.h5</b> - Model contains information about the predictions of the train set, such as 0(low),high(1),very high(2).</li>
   <li><b>confusion_matrix.txt</b> - Contains information about the classified emotions of the test set.</li>
-  <li><b>pics</b> - which contains the output of detecting emotions through live webcam.</li>
+  
 </ul>
 
 <h4>Source Directories:</h4>
 <ul>
-  <li><b>train directory</b> - Includes all emotions  for the training phase of the program.</li>
-  <li><b>test directory</b> - Includes all emotions for the testing phase of the program.</li>
+  <li><b>Dataset</b> - Includes all dataset  for the training phase  and testing phase of the model in the csv format.</li>
+  
 </ul>
 
-<h4>Files required to deploy on Heroku:</h4>
-<ul>
-  <li><b>Haarcascade_frontalface_alt.xml</b> -used for image processing.</li>
-  <li><b>runtime.txt</b> - python environment.</li>
-  <li><b>procfile</b> - Procfile is a mechanism for declaring what commands are run by your application’s dynos on the Heroku platform..</li>
-  <li><b>setup.sh</b> - This file is necessary for Heroku to know which libraries it needs to run your application. .</li>
-  <li><b>requirements.txt</b> - this file contains all the neccesarry dependencies .</li>
+tains all the neccesarry dependencies .</li>
   
 </ul>
 
