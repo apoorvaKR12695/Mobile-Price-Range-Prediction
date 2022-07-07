@@ -14,7 +14,7 @@
 <h2> :floppy_disk: Project Files Description</h2>
 
 
-<p>This Project includes 2 executable files, 2 text files ,1 h5 file as well as 2 directories as follows:</p>
+<p>This Project includes 2 executable files, 1 text files ,1 h5 file as well as 1 directories as follows:</p>
 <h4>Executable Files:</h4>
 <ul>
   
@@ -64,7 +64,7 @@
 
 
 <p><b>1) final_notebook_mobile_price_range_prediction_Apoorva_KR.ipynb</b></p>
-<p>Then, this file must be executed, to define all the functions and variables required for classification operations which leads to the production of the model.h5 file. and to evaluate the model performance on unseen data
+<p> This file must be executed, to define all the functions and variables required for classification operations which leads to the production of the model.h5 file. and to evaluate the model performance on unseen data
 
 
 
